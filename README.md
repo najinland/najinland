@@ -3,7 +3,7 @@
 
 > 오늘도 !false한 개발을 하는중 (내 열 손가락에 불가능은 없다👊)
 
-![swift](./swift.png)  ![java](./java.png)  ![python](./python.png)  ![javascript](./javascript.png)  ![html5](./html5.png)  ![css](./css.png)  ![mysql](./mysql.png)  ![github](./github.png)  
+![swift](./swift.png)  ![apple](./apple.png)  ![java](./java.png)  ![python](./python.png)  ![javascript](./javascript.png)  ![html5](./html5.png)  ![css](./css.png)  ![mysql](./mysql.png)  ![linux](./linux.png)  ![github](./github.png)  
 
 🖥 Web Stack
 -
