@@ -16,10 +16,11 @@
 - 
 - Front-End : Swift Native APP
 - Back-End : Django, MariaDB, AWS(EC2), RestAPI
-- [스터디 O2O 어플리케이션] ...개발중
+- [www.doggyday.pet](http://doggyday.pet) "반려견 관리 어플"
 
 📚 보유 자격증
 -
 - 정보처리기사(2020) 자격증
+- SQLD 자격증
 - 컴퓨터활용능력 1급
 
