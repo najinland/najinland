@@ -3,7 +3,7 @@
 
 > 오늘도 !false한 개발을 하는중 (내 열 손가락에 불가능은 없다👊)
 
-![swift](./swift.png)  ![apple](./apple.png)  ![java](./java.png)  ![python](./python.png)  ![javascript](./javascript.png)  ![html5](./html5.png)  ![css](./css.png)  ![mysql](./mysql.png)  ![linux](./linux.png)  ![github](./github.png)  
+![swift](./swift.png)  ![apple](./apple.png)  ![android](./android.png)  ![java](./java.png)  ![python](./python.png)  ![javascript](./javascript.png)  ![html5](./html5.png)  ![css](./css.png)  ![mysql](./mysql.png)  ![linux](./linux.png)  ![github](./github.png)  
 
 🖥 Web Stack
 -
@@ -14,7 +14,7 @@
 
 📱App Stack
 - 
-- Front-End : Swift Native APP
+- Front-End : Swift/xCode, Java/Android Studio
 - Back-End : Django, MariaDB, AWS(EC2), RestAPI
 - [www.doggyday.pet](http://doggyday.pet) "반려견 관리 어플"
 
