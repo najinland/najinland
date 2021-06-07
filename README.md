@@ -9,14 +9,11 @@
 -
 - Front-End : HTML5, CSS3, JavaScript, jQuery, Bootstrap
 - Back-End : Spring, MariaDB, AWS(EC2), RestAPI
-- [www.Itealab.com](http://itealab.com) "자격증 정보공유 사이트"
-- [www.kospiece.com](http://kospiece.com) "주식 실시간 차트 사이트"
 
 📱App Stack
 - 
 - Front-End : Swift/xCode, Java/Android Studio
 - Back-End : Django, MariaDB, AWS(EC2), RestAPI
-- [www.doggyday.pet](http://doggyday.pet) "반려견 관리 어플"
 
 📚 보유 자격증
 -
